@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Carniceria", "Carniceria\Carniceria.csproj", "{91E901C1-F7FB-46C6-AD74-66DC4B1207B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{03A3A1C8-DC0B-464C-AF49-404C0752F6BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pruebas", "Pruebas\Pruebas.csproj", "{161B6A5A-69C2-4A85-B465-7A234D42537D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E901C1-F7FB-46C6-AD74-66DC4B1207B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E901C1-F7FB-46C6-AD74-66DC4B1207B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E901C1-F7FB-46C6-AD74-66DC4B1207B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E901C1-F7FB-46C6-AD74-66DC4B1207B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A3A1C8-DC0B-464C-AF49-404C0752F6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A3A1C8-DC0B-464C-AF49-404C0752F6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A3A1C8-DC0B-464C-AF49-404C0752F6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A3A1C8-DC0B-464C-AF49-404C0752F6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161B6A5A-69C2-4A85-B465-7A234D42537D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161B6A5A-69C2-4A85-B465-7A234D42537D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161B6A5A-69C2-4A85-B465-7A234D42537D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161B6A5A-69C2-4A85-B465-7A234D42537D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F939BC38-3614-4199-B93B-0D1F890B77CB}
+	EndGlobalSection
+EndGlobal
